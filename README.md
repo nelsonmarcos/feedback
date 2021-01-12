@@ -1,5 +1,13 @@
 # ⚠️Em construção⚠️
 
+   * [feedback](#feedback)
+      * [Dicas para gestores](#dicas-para-gestores)
+         * [Perguntas de preparação:](#perguntas-de-preparação)
+         * [Perguntas interessantes:](#perguntas-interessantes)
+      * [Dicas para liderados](#dicas-para-liderados)
+         * [Como ajudar seu gestor a fazer o seu feedback](#como-ajudar-seu-gestor-a-fazer-o-seu-feedback)
+            * [1 - Solicite o feedback diretamente.](#1---solicite-o-feedback-diretamente)
+            * [2 - Sugira um dia e uma hora.](#2---sugira-um-dia-e-uma-hora)
 # feedback
 Sobre feedback entre pessoas
 
@@ -12,13 +20,13 @@ com esse colaborador.
 3 - Se necessário, combine com o colaborador um período de tempo para abordar as demandas
 que ele trouxer e um período de tempo para falar sobre as demandas mapeadas pela gestão.
 
-### Perguntas de preparação:
+### Perguntas de preparação
 
 Quais comportamentos ou valores eu desejo que meu subordinado continue apresentando?
 Quais comportamentos ou valores eu quero que meu liderado comece ou pare de apresentar?
 Qual tipo de coaching posso fornecer para ajudar o subordinado a realizar plenamento o seu potencial?
 
-### Perguntas interessantes:
+### Perguntas interessantes
 
 Como você se sente trabalhando nessa empresa?<br>
 Quais dificuldades você encontra para realizar o seu trabalho?<br>
