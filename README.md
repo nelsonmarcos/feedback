@@ -1,3 +1,5 @@
+# ⚠️Em construção⚠️
+
 # feedback
 Sobre feedback entre pessoas
 
@@ -9,6 +11,21 @@ com esse colaborador.
 
 3 - Se necessário, combine com o colaborador um período de tempo para abordar as demandas
 que ele trouxer e um período de tempo para falar sobre as demandas mapeadas pela gestão.
+
+### Perguntas de preparação:
+
+Quais comportamentos ou valores eu desejo que meu subordinado continue apresentando?
+Quais comportamentos ou valores eu quero que meu liderado comece ou pare de apresentar?
+Qual tipo de coaching posso fornecer para ajudar o subordinado a realizar plenamento o seu potencial?
+
+### Perguntas interessantes:
+
+Como você se sente trabalhando nessa empresa?<br>
+Quais dificuldades você encontra para realizar o seu trabalho?<br>
+Como posso te ajudar a reduzir essas dificuldades?<br>
+O que eu posso fazer para melhorar a sua performance?<br>
+O que a empresa pode fazer na área de processo?<br>
+Quais expectativas profissionais e pessoais do colaborador?<br>
 
 ## Dicas para liderados
 Você é o principal responsável pela realização do seu feedback. Embora o feedback só seja
@@ -28,11 +45,4 @@ Muitas pessoas tornam-se gestores e gestoras sem treinamento para isso. Dar feed
 
 O trabalho de um gestor/gestora em sua maioria, é um trabalho mental. As vezes, encontrar um dia e uma hora em meio a correria do trabalho pode ser uma tarefa que seu gestor/gestora esteja evitando.
 
-## Perguntas interessantes:
 
-Como você se sente trabalhando nessa empresa?<br>
-Quais dificuldades você encontra para realizar o seu trabalho?<br>
-Como posso te ajudar a reduzir essas dificuldades?<br>
-O que eu posso fazer para melhorar a sua performance?<br>
-O que a empresa pode fazer na área de processo?<br>
-Quais expectativas profissionais e pessoais do colaborador?<br>
