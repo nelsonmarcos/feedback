@@ -12,19 +12,22 @@
 Sobre feedback entre pessoas
 
 ## Dicas para gestores
-1 - Permita que o colaborador faça uma sugestão de pauta. 
 
-2 - Caso ele tenha muitos assuntos a tratar pode ser um indicador de que é necessário realizar feedbacks com mais frequência
+Se você está começando a cultura de feedback avise com antecedência a todo o time e de preferência em uma reunião onde estejam todos presente. Quando marcamos um feedback inesperado, os liderados podem ficar ansiosos e preocupandos acreditando que fizeram algo de errado. 
+
+Permita que o liderado faça uma sugestão de pauta. 
+
+Caso ele tenha muitos assuntos a tratar pode ser um indicador de que é necessário realizar feedbacks com mais frequência
 com esse colaborador.
 
-3 - Se necessário, combine com o colaborador um período de tempo para abordar as demandas
+Se necessário, combine com o colaborador um período de tempo para abordar as demandas
 que ele trouxer e um período de tempo para falar sobre as demandas mapeadas pela gestão.
 
 ### Perguntas de preparação
 
-Quais comportamentos ou valores eu desejo que meu subordinado continue apresentando?
-Quais comportamentos ou valores eu quero que meu liderado comece ou pare de apresentar?
-Qual tipo de coaching posso fornecer para ajudar o subordinado a realizar plenamento o seu potencial?
+Quais comportamentos ou valores eu desejo que meu subordinado continue apresentando?<br>
+Quais comportamentos ou valores eu quero que meu liderado comece ou pare de apresentar?<br>
+Qual tipo de coaching posso fornecer para ajudar o subordinado a realizar plenamento o seu potencial?<br>
 
 ### Perguntas interessantes
 
