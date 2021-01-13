@@ -70,4 +70,4 @@ Pronto. Você consegue um micro feedback o que é muito mais que feedback nenhum
 
 E se o seu gestor falar que não tem 5 minutos para uma ligação? Então você pode enviar a mesma mensagem via texto ou até mesmo via email.
 
-[1] Importante: você deve adaptar a frase as suas características para que ela soe sincera e autêntica. Você deve expressar sua gratidão se ela for autêntica e de forma geral ela deveria ser. 
+[1] Importante: você deve adaptar a frase as suas características para que ela soe sincera e autêntica. Por exemplo: a expressão de gratidão só deve ser usada se ela for autêntica.
