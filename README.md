@@ -59,10 +59,12 @@ O trabalho de um gestor/gestora em sua maioria, é um trabalho mental. As vezes,
 ### Como obter feedback de gestores extremamente ocupados
 
 Se o seu gestor não possui uma agenda pelas próximas duas semanas talvez seja hora de tentar um feedback mais longo em outro momento. Isso não impede você de conseguir um feedback. Você pode chegar no seu gestor, pessoalmente ou via mensagem e tentar a seguinte abordagem:
-- (Nome do gestor), eu percebi que a sua agenda está tomada de demandas e que no momento não é possível sentarmos para termos um feedback mais longo. Nesse caso seria possível fazermos uma call de 5 minutos?
+ 
+&ndash; (Nome do gestor), eu percebi que a sua agenda está tomada de demandas e que no momento não é possível sentarmos para termos um feedback mais longo. Nesse caso seria possível fazermos uma call de 5 minutos?
 
 É muito provável que o gestor disponha de 5 minutos em algum momento do dia. Se a resposta for positiva você pode ligar para ele e pedir um feedback da seguinte forma:
-- (Nome do gestor), obrigado pelo seu tempo. Percebi que não teremos uma oportunidade para uma conversa mais longa pelas próximas duas semanas. Nesse caso, gostaria de saber se você pode me apontar uma única coisa que eu poderia melhorar ou que eu deveria continuar fazendo. [1]
+
+&ndash; (Nome do gestor), obrigado pelo seu tempo. Percebi que não teremos uma oportunidade para uma conversa mais longa pelas próximas duas semanas. Nesse caso, gostaria de saber se você pode me apontar uma única coisa que eu poderia melhorar ou que eu deveria continuar fazendo. [1]
 
 Pronto. Você consegue um micro feedback o que é muito mais que feedback nenhum. 
 
