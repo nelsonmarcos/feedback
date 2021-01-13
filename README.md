@@ -8,12 +8,13 @@
          * [Como ajudar seu gestor a fazer o seu feedback](#como-ajudar-seu-gestor-a-fazer-o-seu-feedback)
             * [1 - Solicite o feedback diretamente.](#1---solicite-o-feedback-diretamente)
             * [2 - Sugira um dia e uma hora.](#2---sugira-um-dia-e-uma-hora)
+         * [Como obter feedback de gestores extremamente ocupados.](#como-obter-feedback-de-gestores-extremamente-ocupados)
 # feedback
 Sobre feedback entre pessoas
 
 ## Dicas para gestores
 
-Se você está começando a cultura de feedback avise com antecedência a todo o time e de preferência em uma reunião onde estejam todos presente. Quando marcamos um feedback inesperado, os liderados podem ficar ansiosos e preocupandos acreditando que fizeram algo de errado. 
+Se você está começando a cultura de feedback na sua equipe,  comunique essa mudança antes de agendar os feedbacks. De preferência em uma reunião onde estejam todos presente. Quando marcamos um feedback inesperado, os liderados podem ficar ansiosos e preocupados acreditando que fizeram algo de errado. 
 
 Permita que o liderado faça uma sugestão de pauta. 
 
@@ -35,25 +36,36 @@ Como você se sente trabalhando nessa empresa?<br>
 Quais dificuldades você encontra para realizar o seu trabalho?<br>
 Como posso te ajudar a reduzir essas dificuldades?<br>
 O que eu posso fazer para melhorar a sua performance?<br>
-O que a empresa pode fazer na área de processo?<br>
-Quais expectativas profissionais e pessoais do colaborador?<br>
+O que a empresa pode fazer na área de processo que tornaria o seu trabalho mais agradável?<br>
+Quais as suas expectativas profissionais e pessoais?<br>
 
 ## Dicas para liderados
-Você é o principal responsável pela realização do seu feedback. Embora o feedback só seja
-possível com a participação do gestor, você deve fazer tudo que está ao seu alcance para que o feedback aconteça?
+Você é o principal responsável pela realização do seu feedback. Embora o feedback só seja possível com a participação do gestor, você deve fazer tudo que está ao seu alcance para que o feedback aconteça?
 
 Mas o feedback não é interesse do meu gestor?
 
-O feedback é do interesse da empresa, do seu gestor e do *SEU* interesse. O feedback pode ser uma oportunidade única de você
+O feedback é do interesse da empresa, do seu gestor e do **SEU** interesse. O feedback pode ser uma oportunidade única de você
 descobrir um ponto de melhoria que não era visível para você. 
 
 ### Como ajudar seu gestor a fazer o seu feedback
 
-#### 1 - Solicite o feedback diretamente. 
+#### 1 - Solicite o feedback diretamente
 Muitas pessoas tornam-se gestores e gestoras sem treinamento para isso. Dar feedback, para algumas pessoas, pode ser uma tarefe *muito* desafiadora. Se você pede o feedback, você sinaliza que está disposto a receber feedback e deixa seu gestor/gestora mais seguro(a).
 
-#### 2 - Sugira um dia e uma hora. 
+#### 2 - Sugira um dia e uma hora
 
 O trabalho de um gestor/gestora em sua maioria, é um trabalho mental. As vezes, encontrar um dia e uma hora em meio a correria do trabalho pode ser uma tarefa que seu gestor/gestora esteja evitando.
 
+### - Como obter feedback de gestores extremamente ocupados
 
+Se o seu gestor não possui uma agenda pelas próximas duas semanas talvez seja hora de tentar um feedback mais longo em outro momento. Isso não impede você de conseguir um feedback. Você pode chegar no seu gestor, pessoalmente ou via mensagem e tentar a seguinte abordagem:
+- (Nome do gestor), eu percebi que a sua agenda está tomada de demandas e que no momento não é possível sentarmos para termos um feedback mais longo. Nesse caso seria possível fazermos uma call de 5 minutos?
+
+É muito provável que o gestor disponha de 5 minutos em algum momento do dia. Se a resposta for positiva você pode ligar para ele e pedir um feedback da seguinte forma:
+- (Nome do gestor), obrigado pelo seu tempo. Percebi que não teremos uma oportunidade para uma conversa mais longa pelas próximas duas semanas. Nesse caso, gostaria de saber se você pode me apontar uma única coisa que eu poderia melhorar ou que eu deveria continuar fazendo. [1]
+
+Pronto. Você consegue um micro feedback o que é muito mais que feedback nenhum. 
+
+E se o seu gestor falar que não tem 5 minutos para uma ligação? Então você pode enviar a mesma mensagem via texto ou até mesmo via email.
+
+[1] Importante: você deve adaptar a frase as suas características para que ela soe sincera e autêntica. Você deve expressar sua gratidão se ela for autêntica e de forma geral ela deveria ser. 
