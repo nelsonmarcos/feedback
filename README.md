@@ -56,7 +56,7 @@ Muitas pessoas tornam-se gestores e gestoras sem treinamento para isso. Dar feed
 
 O trabalho de um gestor/gestora em sua maioria, é um trabalho mental. As vezes, encontrar um dia e uma hora em meio a correria do trabalho pode ser uma tarefa que seu gestor/gestora esteja evitando.
 
-### - Como obter feedback de gestores extremamente ocupados
+### Como obter feedback de gestores extremamente ocupados
 
 Se o seu gestor não possui uma agenda pelas próximas duas semanas talvez seja hora de tentar um feedback mais longo em outro momento. Isso não impede você de conseguir um feedback. Você pode chegar no seu gestor, pessoalmente ou via mensagem e tentar a seguinte abordagem:
 - (Nome do gestor), eu percebi que a sua agenda está tomada de demandas e que no momento não é possível sentarmos para termos um feedback mais longo. Nesse caso seria possível fazermos uma call de 5 minutos?
