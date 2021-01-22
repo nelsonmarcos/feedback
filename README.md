@@ -9,6 +9,7 @@
             * [1 - Solicite o feedback diretamente.](#1---solicite-o-feedback-diretamente)
             * [2 - Sugira um dia e uma hora.](#2---sugira-um-dia-e-uma-hora)
          * [Como obter feedback de gestores extremamente ocupados.](#como-obter-feedback-de-gestores-extremamente-ocupados)
+      * [Artigos](#Artigos)         
 # feedback
 Sobre feedback entre pessoas
 
@@ -71,3 +72,6 @@ Pronto. Você consegue um micro feedback o que é muito mais que feedback nenhum
 E se o seu gestor falar que não tem 5 minutos para uma ligação? Então você pode enviar a mesma mensagem via texto ou até mesmo via email.
 
 [1] Importante: você deve adaptar a frase as suas características para que ela soe sincera e autêntica. Por exemplo: a expressão de gratidão só deve ser usada se ela for autêntica.
+
+## Artigos
+[Remote work and feedback](https://www.weforum.org/agenda/2020/04/remote-working-workforce-feedback/)
